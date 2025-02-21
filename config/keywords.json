@@ -1,0 +1,45 @@
+{
+    "categories": {
+        "cryptocurrencies": [
+            "bitcoin",
+            "btc",
+            "ethereum",
+            "eth",
+            "crypto",
+            "cryptocurrency",
+            "blockchain"
+        ],
+        "meme_coins": [
+            "doge",
+            "dogecoin",
+            "shib",
+            "shiba",
+            "pepe",
+            "memecoin",
+            "meme coin"
+        ],
+        "trading_terms": [
+            "buy",
+            "sell",
+            "hodl",
+            "moon",
+            "dump",
+            "pump",
+            "launch"
+        ],
+        "exchanges": [
+            "binance",
+            "coinbase",
+            "kraken",
+            "ftx",
+            "dex",
+            "exchange"
+        ]
+    },
+    "sentiment_weights": {
+        "positive": 1.5,
+        "negative": 1.2,
+        "neutral": 1.0
+    },
+    "minimum_confidence": 0.7
+} 

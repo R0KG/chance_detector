@@ -1,0 +1,31 @@
+{
+    "accounts": [
+        {
+            "username": "elonmusk",
+            "description": "CEO of Tesla and X",
+            "category": "tech_influencer"
+        },
+        {
+            "username": "CryptoCobain",
+            "description": "Crypto trader and influencer",
+            "category": "crypto_expert"
+        },
+        {
+            "username": "APompliano",
+            "description": "Crypto investor and podcast host",
+            "category": "crypto_expert"
+        },
+        {
+            "username": "SBF_FTX",
+            "description": "Former CEO of FTX",
+            "category": "crypto_figure"
+        },
+        {
+            "username": "cz_binance",
+            "description": "CEO of Binance",
+            "category": "crypto_executive"
+        }
+    ],
+    "update_frequency": "5m",
+    "max_tweets_per_fetch": 100
+} 
